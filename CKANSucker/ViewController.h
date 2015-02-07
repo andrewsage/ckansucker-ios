@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CKANSucker.h"
+
 
 @interface ViewController : UIViewController
 
